@@ -1,5 +1,4 @@
 #include "Flappy.hxx"
-#include <D:/Dev/Libs/SFML-2.6.0/include/SFML/Graphics.hpp>
 
 int main(int argc, char* argv[]) {
 	std::srand(time(0));
