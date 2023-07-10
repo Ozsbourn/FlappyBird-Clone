@@ -1,9 +1,9 @@
 # FlappyBird-Clone
 
 ## Dependencies
-SFML
-MinGW 
-Makefile
++SFML
++MinGW 
++Makefile
 
 ## Installation 
 
